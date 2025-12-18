@@ -1,5 +1,4 @@
-# patricktran.github.io
-# PATRICK TRAN - DATA ANALYTICS PORTFOLIO
+# Patrick Tran - DATA ANALYTICS PORTFOLIO
 
 ## PROJECTS:
 
