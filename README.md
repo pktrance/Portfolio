@@ -1,4 +1,4 @@
-# Patrick Tran - DATA ANALYTICS PORTFOLIO
+# Patrick Tran - Data Analytics Portfolio
 
 ## PROJECTS:
 
