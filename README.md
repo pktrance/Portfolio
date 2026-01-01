@@ -18,7 +18,7 @@ I am a **UCLA Statistics** graduate with over a **decade of professional leaders
 
 - Built interactive **Tableau dashboard** analyzing **17,000+ video game titles** to identify regional market preferences and publisher strategies. Discovered inverse genre preferences between North America and Japan (NA: **15x higher Shooter revenue**; Japan: **43% higher RPG share**), suggesting need for region-specific content strategies.
 
-- [View Dashboard (Tableau Public)](https://public.tableau.com/app/profile/ptran/viz/GlobalVideoGameSalesTrendsExploringTopGenres/Dashboard1)
+- [View Dashboard (Tableau Public)](https://public.tableau.com/app/profile/ptran/viz/GlobalVideoGameSalesTrendsExploringTopGenres/Dashboard1) |
 
 ***Tech Stack:** Tableau • Data Visualization • Market Segmentation*
 
