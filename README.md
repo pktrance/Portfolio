@@ -10,8 +10,7 @@ I am a **UCLA Statistics** graduate with over a **decade of professional leaders
 
 - Analyzed **2M+ music catalog records** to understand relationships between label characteristics and streaming success. Found that **mid-size independent labels** (50-199 albums) achieve **59% higher album popularity** than major labels, and identified winner-take-most dynamics where the **top 5% of artists** generate **4.3x higher engagement**.
 
-- [View Code (GitHub)](https://github.com/pktrance/Spotify-Catalog-Insights/blob/main/spotify-database-analysis-2025.ipynb)
-- [Read Analysis Overview (GitHub README)](https://github.com/pktrance/Spotify-Catalog-Insights/blob/main/README.md)
+- [View Code (GitHub)](https://github.com/pktrance/Spotify-Catalog-Insights/blob/main/spotify-database-analysis-2025.ipynb) | [Read Analysis Overview (GitHub README)](https://github.com/pktrance/Spotify-Catalog-Insights/blob/main/README.md)
 
 ***Tech Stack:** Python (Pandas/NumPy) • SQL • Matplotlib • Jupyter Notebook*
 
