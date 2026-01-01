@@ -36,4 +36,4 @@ Created automated **Power BI dashboard** analyzing **49,000+ pizza orders** to i
 **LinkedIn:** [linkedin.com/in/patricktran22](linkedin.com/in/patricktran22)
 **GitHub:** [github.com/pktrance](github.com/pktrance)
 
-*Currently seeking Business Analyst or Data Analyst opportunities in the Los Angeles metropolitan area or Remote.*
+*Currently seeking Data Analyst or Business Analyst opportunities in the Los Angeles metropolitan area or Remote.*
