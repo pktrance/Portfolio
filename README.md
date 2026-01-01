@@ -1,4 +1,4 @@
-# Patrick Tran - Data Analytics Portfolio
+# Patrick Tran • Data Analyst / Business Analyst
 
 ## ABOUT ME:
 
@@ -30,12 +30,6 @@ I am a **UCLA Statistics** graduate with over a **decade of professional leaders
 - [View Dashboard (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiNmZmYTY4ZTAtOTFjNi00M2U2LTg3YzctZDk2NDFhMGNlMDNhIiwidCI6IjU2MjcwNGE0LWM0YmEtNGY0My04ZDA4LWVlMTEwMGI1YTJjMiIsImMiOjZ9)
 
 ***Tech Stack:** Power BI (DAX) • Power Query • Excel • Statistical Analysis*
-
-## SKILLS:
-
-**Technical:** SQL (Postgres) • Python • Tableau • Power BI (DAX) • Excel (VLOOKUP/Pivots) • R • Git/GitHub 
-
-**Functional:** Statistical Modeling • Data Normalization • Process Automation • EDA • Stakeholder Reporting
 
 ## CONTACT:
 
