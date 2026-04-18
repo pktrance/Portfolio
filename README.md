@@ -6,6 +6,12 @@ I am a **UCLA Statistics** graduate with over a **decade of professional leaders
 
 ## PROJECTS:
 
+### Airbnb (Los Angeles) Data Analysis
+
+Conducted EDA and data cleaning on an Airbnb dataset of **44k+ listings** using **Python**, applying context-driven null handling decisions to preserve data integrity and avoid skewing results. Engineered 3 new columns including externally sourced median income data and geographic zip code fields, expanding the team's analytical flexibility and enabling geographic mapping in **Tableau**.
+
+| [View Code (Google Drive)](https://drive.google.com/file/d/14o2xl25No8NNN4LlroNyaW7wyzqSBtlk/view?usp=sharing) | [Additional Files (Google Drive)](https://drive.google.com/drive/folders/1X495KSlG5-YmN9fB7MO1r2li87YKXmoQ?usp=drive_link)
+
 ### Spotify Catalog Insights
 
 Analyzed **2M+ music catalog records** to understand relationships between label characteristics and streaming success. Found that **mid-size independent labels** (50-199 albums) achieve **59% higher album popularity** than major labels, and identified winner-take-most dynamics where the **top 5% of artists** generate **4.3x higher engagement**.
