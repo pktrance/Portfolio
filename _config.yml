@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: Patrick Tran | Data Analyst
-description: "Stay up to date with my latest projects!"
+title: Patrick Tran
+description: "UCLA Statistics Graduate | COOP Data Analytics Fellow | 8+ Years of Creative Project Management"
 url: "https://pktrance.github.io/Portfolio/"
 plugins:
   - jekyll-seo-tag
