@@ -1,5 +1,3 @@
-# Patrick Tran • Data Analyst
-
 ![lprofile_sm](images/profile_sm.jpg)
 
 ## ABOUT ME:
