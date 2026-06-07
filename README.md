@@ -2,6 +2,4 @@
 
 My personal portfolio site. 
 
-*Hosted on GitHub Pages*
-
 🔗 [View Site](https://pktrance.github.io/Portfolio/)
