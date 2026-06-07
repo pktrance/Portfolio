@@ -1,5 +1,7 @@
 # Patrick Tran • Data Analyst / Business Analyst
 
+![low_poly_head_3d](images/low_poly_portrait_3d.png)
+
 ## ABOUT ME:
 
 Data has always been about people to me — behind every dataset is a pattern of human behavior, and the most valuable insights come from understanding the why before the what. I'm a UCLA Statistics graduate and Data Analytics Fellow at COOP Careers, with a background that spans both analytical and creative work. Directing large-scale dance productions and consulting on independent music projects taught me how to connect with people, translate complex ideas, and find clarity in ambiguity — skills that translate directly into how I approach data. I bring statistical rigor, creative thinking, and a genuine curiosity about people to every problem I work on. If that sounds like something your team could use, let's connect!
