@@ -1,4 +1,4 @@
-![lprofile_sm](images/profile_sm.jpg)
+<div align="center">![lprofile_sm](images/profile_sm.jpg)</div>
 
 <h2 align="center">ABOUT ME</h1>
 
