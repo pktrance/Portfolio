@@ -3,6 +3,17 @@
 
 @import "{{ site.theme }}";
 
+.page-header {
+  animation: gradientShift 6s ease infinite;
+  background-size: 200% 200%;
+}
+
+@keyframes gradientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
 .btn {
   color: #fff;
   background-color: #155b94;
