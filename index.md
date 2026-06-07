@@ -6,6 +6,8 @@
 
 Data has always been about people to me. Behind every dataset is a pattern of human behavior, and the most valuable insights come from understanding the why before the what. I'm a UCLA Statistics graduate and previous Data Analytics Fellow at COOP Careers, with a background that spans both analytical and creative work. Directing large-scale dance productions and consulting on independent music projects taught me how to connect with people, translate complex ideas, and find clarity in ambiguity — skills that translate directly into how I approach data. I bring statistical rigor, creative thinking, and a genuine curiosity about people to every problem I work on. If that sounds like something your team could use, let's connect!
 
+---
+
 <h2 align="center">PROJECTS</h2>
 
 <div class="card" markdown="1">
@@ -71,6 +73,8 @@ Created automated **Power BI dashboard** analyzing **49,000+ pizza orders** to i
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNmZmYTY4ZTAtOTFjNi00M2U2LTg3YzctZDk2NDFhMGNlMDNhIiwidCI6IjU2MjcwNGE0LWM0YmEtNGY0My04ZDA4LWVlMTEwMGI1YTJjMiIsImMiOjZ9" class="btn">View Dashboard</a>
 </div>
 </div>
+
+---
 
 <h2 align="center">CONTACT</h2>
 
