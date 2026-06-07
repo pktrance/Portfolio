@@ -1,6 +1,6 @@
 # Patrick Tran • Data Analyst / Business Analyst
 
-![low_poly_head_512](images/low_poly_portrait_512.png)
+![low_poly_portrait_sm](images/low_poly_portrait_sm.png)
 
 ## ABOUT ME:
 
