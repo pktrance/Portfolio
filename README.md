@@ -2,15 +2,29 @@
 
 ## ABOUT ME:
 
-I am a **UCLA Statistics** graduate with over a **decade of professional leadership experience**. My background in Creative Direction and Audio Engineering has instilled a deep respect for process optimization and stakeholder communication—skills I now apply to **data-driven business strategy**. I specialize in transforming raw data into actionable insights using **SQL, Python, and Tableau**. Whether I am analyzing **2M+ records** to uncover market trends or building **automated KPI dashboards**, my goal is to provide clarity and drive ROI through rigorous statistical analysis.
+Data has always been about people to me — behind every dataset is a pattern of human behavior, and the most valuable insights come from understanding the why before the what. I'm a UCLA Statistics graduate and Data Analytics Fellow at COOP Careers, with a background that spans both analytical and creative work. Directing large-scale dance productions and consulting on independent music projects taught me how to connect with people, translate complex ideas, and find clarity in ambiguity — skills that translate directly into how I approach data. I bring statistical rigor, creative thinking, and a genuine curiosity about people to every problem I work on. If that sounds like something your team could use, let's connect!
+
+| [My Linkedin Profile](https://www.linkedin.com/in/patricktran22/)
 
 ## PROJECTS:
+
+### Telecom Media Campaign Audience Analysis
+
+Audience analysis of a telecom media campaign using **Python**. Built a custom segment classifier to categorize **727 ad records** into **19 audience types** and computed KPIs (CTR, CVR, CPA, viewability) using `pandas` and `seaborn`. Includes **3 data-backed audience personas** validated with external sources (Experian, SimilarWeb).
+
+| [View Code (Github)](https://github.com/pktrance/Telecom-Media-Campaign-Audience-Analysis/blob/main/Telecom%20Media%20Campaign%20EDA.ipynb) | [Read Overview (Github)](https://github.com/pktrance/Telecom-Media-Campaign-Audience-Analysis/blob/main/README.md)
+
+### Salifort Motors Employee Attrition Prediction
+
+Analyzed a **15,000-record HR dataset** to predict employee attrition using **Random Forest** and **XGBoost classifiers**. Performed EDA, feature engineering, and hyperparameter tuning via `GridSearchCV`. Champion XGBoost model achieved **98.3% accuracy** and **97.1% precision.**
+
+| [View Code (Github)](https://github.com/pktrance/Salifort-Motors-Employee-Attrition-Prediction/blob/main/Salifort%20Motors%20Project%20Code.ipynb) | [Read Overview (Github)](https://github.com/pktrance/Salifort-Motors-Employee-Attrition-Prediction/blob/main/README.md)
 
 ### Airbnb (Los Angeles) Data Analysis
 
 Conducted EDA and data cleaning on an Airbnb dataset of **44k+ listings** using **Python**, applying context-driven null handling decisions to preserve data integrity and avoid skewing results. Engineered 3 new columns including externally sourced median income data and geographic zip code fields, expanding the team's analytical flexibility and enabling geographic mapping in **Tableau**.
 
-| [View Code (Google Drive)](https://drive.google.com/file/d/14o2xl25No8NNN4LlroNyaW7wyzqSBtlk/view?usp=sharing) | [Additional Files (Google Drive)](https://drive.google.com/drive/folders/1X495KSlG5-YmN9fB7MO1r2li87YKXmoQ?usp=drive_link)
+| [View Code (Github)](https://github.com/pktrance/Airbnb-Los-Angeles-Market-Analysis/blob/main/Airbnb%20Los%20Angeles%20Dataset%20EDA.ipynb) | [Read Overview (Github)](https://github.com/pktrance/Airbnb-Los-Angeles-Market-Analysis/blob/main/README.md)
 
 ### Spotify Catalog Insights
 
@@ -18,7 +32,7 @@ Analyzed **2M+ music catalog records** to understand relationships between label
 
 *Tech Stack: Python (Pandas/NumPy) • SQL • Matplotlib • Jupyter Notebook*
 
-| [View Code (GitHub)](https://github.com/pktrance/Spotify-Catalog-Insights/blob/main/spotify-database-analysis-2025.ipynb) | [Read Analysis Overview (GitHub README)](https://github.com/pktrance/Spotify-Catalog-Insights/blob/main/README.md)
+| [View Code (GitHub)](https://github.com/pktrance/Spotify-Catalog-Insights/blob/main/spotify-database-analysis-2025.ipynb) | [Read Overview (GitHub README)](https://github.com/pktrance/Spotify-Catalog-Insights/blob/main/README.md)
 
 ### Video Game Sales Dashboard
 
