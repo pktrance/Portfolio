@@ -1,5 +1,5 @@
 <div align="center">
-<img src="images/profile_sm.jpg"/>
+<img src="images/profile_sm_circle.png"/>
 </div>
 
 <h2 align="center">ABOUT ME</h2>
