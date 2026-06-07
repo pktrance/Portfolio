@@ -9,7 +9,7 @@
 <h2 align="center">PROJECTS</h2>
 
 <div class="card" markdown="1">
-<h3>Telecom Media Campaign Audience Analysis</h3>
+<h3 align="center">Telecom Media Campaign Audience Analysis</h3>
 
 Audience analysis of a telecom media campaign using **Python**. Built a custom segment classifier to categorize **727 ad records** into **19 audience types** and computed KPIs (CTR, CVR, CPA, viewability) using `pandas` and `seaborn`. Includes **3 data-backed audience personas** validated with external sources (Experian, SimilarWeb).
 
@@ -20,7 +20,7 @@ Audience analysis of a telecom media campaign using **Python**. Built a custom s
 </div>
 
 <div class="card" markdown="1">
-<h3>Salifort Motors Employee Attrition Prediction</h3>
+<h3 align="center">Salifort Motors Employee Attrition Prediction</h3>
 
 Analyzed a **15,000-record HR dataset** to predict employee attrition using **Random Forest** and **XGBoost classifiers**. Performed EDA, feature engineering, and hyperparameter tuning via `GridSearchCV`. Champion XGBoost model achieved **98.3% accuracy** and **97.1% precision.**
 
@@ -31,7 +31,7 @@ Analyzed a **15,000-record HR dataset** to predict employee attrition using **Ra
 </div>
 
 <div class="card" markdown="1">
-<h3>Airbnb (Los Angeles) Data Analysis</h3>
+<h3 align="center">Airbnb (Los Angeles) Data Analysis</h3>
 
 Conducted EDA and data cleaning on an Airbnb dataset of **44k+ listings** using **Python**, applying context-driven null handling decisions to preserve data integrity and avoid skewing results. Engineered 3 new columns including externally sourced median income data and geographic zip code fields, expanding the team's analytical flexibility and enabling geographic mapping in **Tableau**.
 
@@ -42,7 +42,7 @@ Conducted EDA and data cleaning on an Airbnb dataset of **44k+ listings** using 
 </div>
 
 <div class="card" markdown="1">
-<h3>Spotify Catalog Insights</h3>
+<h3 align="center">Spotify Catalog Insights</h3>
 
 Analyzed **2M+ music catalog records** to understand relationships between label characteristics and streaming success. Found that **mid-size independent labels** (50-199 albums) achieve **59% higher album popularity** than major labels, and identified winner-take-most dynamics where the **top 5% of artists** generate **4.3x higher engagement**.
 
@@ -53,7 +53,7 @@ Analyzed **2M+ music catalog records** to understand relationships between label
 </div>
 
 <div class="card" markdown="1">
-<h3>Video Game Sales Dashboard</h3>
+<h3 align="center">Video Game Sales Dashboard</h3>
 
 Built interactive **Tableau dashboard** analyzing **17,000+ video game titles** to identify regional market preferences and publisher strategies. Discovered inverse genre preferences between North America and Japan (NA: **15x higher Shooter revenue**; Japan: **43% higher RPG share**), suggesting need for region-specific content strategies.
 
@@ -63,7 +63,7 @@ Built interactive **Tableau dashboard** analyzing **17,000+ video game titles** 
 </div>
 
 <div class="card" markdown="1">
-<h3>Maven Pizza Challenge</h3>
+<h3 align="center">Maven Pizza Challenge</h3>
 
 Created automated **Power BI dashboard** analyzing **49,000+ pizza orders** to identify revenue optimization opportunities. Found that **Large pizzas drive 43% of profits** despite modest pricing, while **XL/XXL sizes contribute under 2% of profits** and should be discontinued to reduce operational complexity.
 
