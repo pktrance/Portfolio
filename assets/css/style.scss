@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.btn {
+  color: #fff;
+  background-color: #2a7ae2;
+  border-color: #2a7ae2;
+}
+
+.btn:hover {
+  background-color: #1a5bbf;
+}
