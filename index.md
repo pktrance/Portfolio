@@ -1,4 +1,6 @@
-<div align="center">![lprofile_sm](images/profile_sm.jpg)</div>
+<div align="center">
+<img src="images/profile_sm.jpg"/>
+</div>
 
 <h2 align="center">ABOUT ME</h1>
 
@@ -61,9 +63,11 @@ Created automated **Power BI dashboard** analyzing **49,000+ pizza orders** to i
 <h2 align="center">CONTACT</h1>
 
 <div align="center">
-**Email:** patricktran@g.ucla.edu
-**LinkedIn:** [linkedin.com/in/patricktran22](linkedin.com/in/patricktran22)
-**GitHub:** [github.com/pktrance](github.com/pktrance)
-</div>
+
+**Email:** patricktran@g.ucla.edu <br>
+**LinkedIn:** [linkedin.com/in/patricktran22](https://linkedin.com/in/patricktran22) <br>
+**GitHub:** [github.com/pktrance](https://github.com/pktrance)
 
 *Currently seeking Data Analyst or Business Analyst opportunities in the Los Angeles metropolitan area or Remote.*
+
+</div>
