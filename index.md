@@ -80,7 +80,7 @@ Created automated **Power BI dashboard** analyzing **49,000+ pizza orders** to i
 
 <div align="center" markdown="1">
 
-**Email:** patricktran@g.ucla.edu
+**Email:** patricktran@ucla.edu
 
 *Currently seeking Data Analyst or Business Analyst opportunities in the Los Angeles metropolitan area or Remote.*
 
